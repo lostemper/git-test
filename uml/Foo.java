@@ -1,5 +1,8 @@
 import  java.io.Serializable;
-import  java.util.List;
+
+/**
+***  Test
+**/
 public  class  Foo   implements  Serializable {
 	public   void  bar ()  {
 		int i = 31;
